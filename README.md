@@ -1,16 +1,21 @@
-## Hi there 👋
+# My Profile
+<div align="center">
+<h1>
+Hi, I'm NOELIA ANDRADE PÉREZ and I study Big Data and Cloud at Edem.
 
-<!--
-**Noelia02/Noelia02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</h1>
 
-Here are some ideas to get you started:
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpvcjdlZW5iYTBqNGx2dmp0bnEyeHFvMXY4bjhpeGRicmVyY2RxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hTh9bSbUPWMWk/giphy.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## My programming languages
+
+1. Java
+2. Python
+3. C
+4. Kotlin
+5. HTML
+6. JavaScript
+   
+
